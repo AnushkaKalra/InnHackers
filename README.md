@@ -9,6 +9,12 @@ A few resources to get you started if this is your first Flutter project:
 - [GitHub Repo Link](https://github.com/karan-17/InnHacker)
 - [Heroku](https://tog-admin.herokuapp.com/)
 
+## Authors
+
+- [@anushkakalra](https://github.com/AnushkaKalra)
+- [@karan-17](https://github.com/karan-17)
+- [@kritikach](https://github.com/kritikach)
+
 # Screenshots of the Project
 
 Sign In Page            |  Sign Up Page                   | Drawer               | QR Page               | Event Planner
